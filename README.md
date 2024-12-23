@@ -1,4 +1,4 @@
-To-Do List Web Application
+ To-Do List Web Application
 
 
 
@@ -23,7 +23,7 @@ Installation:
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-username/todo-list.git
+git clone 
 Open the index.html file in any web browser to get started.
 
 How to Use:
